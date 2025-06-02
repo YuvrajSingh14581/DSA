@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/YuvrajSingh14581/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/YuvrajSingh14581/DSA/tree/master/0238-product-of-array-except-self) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
