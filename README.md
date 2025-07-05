@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YuvrajSingh14581/DSA/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/YuvrajSingh14581/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/YuvrajSingh14581/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0507-perfect-number) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
