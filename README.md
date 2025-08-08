@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/YuvrajSingh14581/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/YuvrajSingh14581/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/YuvrajSingh14581/DSA/tree/master/0647-palindromic-substrings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/YuvrajSingh14581/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/YuvrajSingh14581/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Heap (Priority Queue)
 |  |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/YuvrajSingh14581/DSA/tree/master/0647-palindromic-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
