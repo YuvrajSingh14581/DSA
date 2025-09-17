@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajSingh14581/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/YuvrajSingh14581/DSA/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/YuvrajSingh14581/DSA/tree/master/0647-palindromic-substrings) |
+| [1013-fibonacci-number](https://github.com/YuvrajSingh14581/DSA/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/YuvrajSingh14581/DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YuvrajSingh14581/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/YuvrajSingh14581/DSA/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YuvrajSingh14581/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/YuvrajSingh14581/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
