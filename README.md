@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajSingh14581/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/YuvrajSingh14581/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/YuvrajSingh14581/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/YuvrajSingh14581/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YuvrajSingh14581/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/YuvrajSingh14581/DSA/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
