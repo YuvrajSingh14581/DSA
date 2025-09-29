@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/YuvrajSingh14581/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/YuvrajSingh14581/DSA/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/YuvrajSingh14581/DSA/tree/master/0647-palindromic-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
