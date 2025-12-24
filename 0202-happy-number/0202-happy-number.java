@@ -6,7 +6,7 @@ class Solution {
             sum+=temp*temp;
             n=n/10;
         }return sum;
-    }
+    }//kya yrrr
     public boolean isHappy(int n) {
         HashSet<Integer> seen=new HashSet<>();
         while(n!=1 && !seen.contains(n)){
