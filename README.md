@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/YuvrajSingh14581/DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YuvrajSingh14581/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2427-number-of-common-factors](https://github.com/YuvrajSingh14581/DSA/tree/master/2427-number-of-common-factors) |
 ## Matrix
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/YuvrajSingh14581/DSA/tree/master/2427-number-of-common-factors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/YuvrajSingh14581/DSA/tree/master/0319-bulb-switcher) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/YuvrajSingh14581/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
