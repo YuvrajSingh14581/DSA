@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/YuvrajSingh14581/DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/YuvrajSingh14581/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YuvrajSingh14581/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2427-number-of-common-factors](https://github.com/YuvrajSingh14581/DSA/tree/master/2427-number-of-common-factors) |
 ## Matrix
