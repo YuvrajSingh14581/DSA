@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/YuvrajSingh14581/DSA/tree/master/1791-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/YuvrajSingh14581/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/YuvrajSingh14581/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YuvrajSingh14581/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/YuvrajSingh14581/DSA/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/YuvrajSingh14581/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/YuvrajSingh14581/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YuvrajSingh14581/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2427-number-of-common-factors](https://github.com/YuvrajSingh14581/DSA/tree/master/2427-number-of-common-factors) |
 ## Matrix
