@@ -1,18 +1,17 @@
 class Solution {
-    public void RevArr(int[] nums,int start,int end){
-        while(start<end){
-            int temp=nums[start];
-            nums[start]=nums[end];
-            nums[end]=temp;
-            start++;
-            end--;
-        }
-    }
     public void rotate(int[] nums, int k) {
         int n=nums.length;
-        k=k%n;
-        RevArr(nums,0,n-1);
-        RevArr(nums,0,k-1);
-        RevArr(nums,k,n-1);
+        k%=n;
+        int d=n-k;
+        int[] temp=new int[d];
+        for(int i=0;i<d;i++){
+            temp[i]=nums[i];
+        }
+        for(int i=d;i<n;i++){
+            nums[i-d]=nums[i];
+        }
+        for(int i=n-d;i<n;i++){
+            nums[i]=temp[i-(n-d)];
+        }
     }
 }
