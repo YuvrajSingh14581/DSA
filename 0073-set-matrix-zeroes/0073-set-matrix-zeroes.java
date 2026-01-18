@@ -1,57 +1,20 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        int m = matrix.length;
-        int n = matrix[0].length;
-
-        boolean row0 = false;
-        boolean col0 = false;
-
-        // Step 1: Check first column
-        for (int i = 0; i < m; i++) {
-            if (matrix[i][0] == 0) {
-                col0 = true;
-                break;
-            }
-        }
-
-        // Step 2: Check first row
-        for (int j = 0; j < n; j++) {
-            if (matrix[0][j] == 0) {
-                row0 = true;
-                break;
-            }
-        }
-
-        // Step 3: Use first row & column as markers
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
+        int[] row=new int[matrix.length];
+        int[] col=new int[matrix[0].length];
+        for(int i=0;i<matrix.length;i++){
+            for(int j=0;j<matrix[0].length;j++){
+                if(matrix[i][j]==0){
+                    row[i]=1;
+                    col[j]=1;
                 }
             }
         }
-
-        // Step 4: Set cells to zero using markers
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0) {
-                    matrix[i][j] = 0;
+        for(int i=0;i<matrix.length;i++){
+            for(int j=0 ;j<matrix[0].length;j++){
+                if(row[i]==1||col[j]==1){
+                    matrix[i][j]=0;
                 }
-            }
-        }
-
-        // Step 5: Zero first row if needed
-        if (row0) {
-            for (int j = 0; j < n; j++) {
-                matrix[0][j] = 0;
-            }
-        }
-
-        // Step 6: Zero first column if needed
-        if (col0) {
-            for (int i = 0; i < m; i++) {
-                matrix[i][0] = 0;
             }
         }
     }
