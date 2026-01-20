@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/YuvrajSingh14581/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/YuvrajSingh14581/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/YuvrajSingh14581/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/YuvrajSingh14581/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/YuvrajSingh14581/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YuvrajSingh14581/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YuvrajSingh14581/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/YuvrajSingh14581/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YuvrajSingh14581/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/YuvrajSingh14581/DSA/tree/master/1791-richest-customer-wealth) |
 | [3031-construct-product-matrix](https://github.com/YuvrajSingh14581/DSA/tree/master/3031-construct-product-matrix) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/YuvrajSingh14581/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/YuvrajSingh14581/DSA/tree/master/0258-add-digits) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YuvrajSingh14581/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YuvrajSingh14581/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
