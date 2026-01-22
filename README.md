@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/YuvrajSingh14581/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YuvrajSingh14581/DSA/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/YuvrajSingh14581/DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/YuvrajSingh14581/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/YuvrajSingh14581/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0948-sort-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajSingh14581/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/YuvrajSingh14581/DSA/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/YuvrajSingh14581/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/YuvrajSingh14581/DSA/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/YuvrajSingh14581/DSA/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/YuvrajSingh14581/DSA/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/YuvrajSingh14581/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/YuvrajSingh14581/DSA/tree/master/0040-combination-sum-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/YuvrajSingh14581/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
