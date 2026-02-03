@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YuvrajSingh14581/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/YuvrajSingh14581/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3031-construct-product-matrix](https://github.com/YuvrajSingh14581/DSA/tree/master/3031-construct-product-matrix) |
+| [3637-trionic-array-i](https://github.com/YuvrajSingh14581/DSA/tree/master/3637-trionic-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/YuvrajSingh14581/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
 |  |
