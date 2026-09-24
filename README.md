@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YuvrajSingh14581/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/YuvrajSingh14581/DSA/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/YuvrajSingh14581/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YuvrajSingh14581/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/YuvrajSingh14581/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/YuvrajSingh14581/DSA/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajSingh14581/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/YuvrajSingh14581/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/YuvrajSingh14581/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/YuvrajSingh14581/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0948-sort-an-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YuvrajSingh14581/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Prefix Sum
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/YuvrajSingh14581/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/YuvrajSingh14581/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -164,12 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YuvrajSingh14581/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajSingh14581/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/YuvrajSingh14581/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0948-sort-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/YuvrajSingh14581/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Merge Sort
@@ -179,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -271,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/YuvrajSingh14581/DSA/tree/master/0322-coin-change) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
