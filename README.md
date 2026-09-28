@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajSingh14581/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/YuvrajSingh14581/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/YuvrajSingh14581/DSA/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/YuvrajSingh14581/DSA/tree/master/0796-rotate-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/YuvrajSingh14581/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YuvrajSingh14581/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/YuvrajSingh14581/DSA/tree/master/0796-rotate-string) |
 ## Brainteaser
 |  |
 | ------- |
