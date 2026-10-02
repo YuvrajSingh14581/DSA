@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YuvrajSingh14581/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/YuvrajSingh14581/DSA/tree/master/1791-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/YuvrajSingh14581/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/YuvrajSingh14581/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/YuvrajSingh14581/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/YuvrajSingh14581/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/YuvrajSingh14581/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/YuvrajSingh14581/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0948-sort-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/YuvrajSingh14581/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/YuvrajSingh14581/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YuvrajSingh14581/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/YuvrajSingh14581/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/YuvrajSingh14581/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3031-construct-product-matrix](https://github.com/YuvrajSingh14581/DSA/tree/master/3031-construct-product-matrix) |
 ## Divide and Conquer
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YuvrajSingh14581/DSA/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YuvrajSingh14581/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/YuvrajSingh14581/DSA/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/YuvrajSingh14581/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajSingh14581/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/YuvrajSingh14581/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/YuvrajSingh14581/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/YuvrajSingh14581/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajSingh14581/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/YuvrajSingh14581/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Memoization
